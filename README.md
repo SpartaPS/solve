@@ -6,6 +6,9 @@
 - yyMMddname
 
 ex) 220427김민수
+```
+git checkout -b 220427김민수
+```
 
 ---
 
