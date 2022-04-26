@@ -1,8 +1,8 @@
 # solve
 
 ## 브랜치 명
-연습 제출일 기준으로
-yyMMddname
+연습 제출일 기준으로</br>
+yyMMddname</br>
 ex) 220427김민수
 
 ## 문제 출제자는 폴더 생성
