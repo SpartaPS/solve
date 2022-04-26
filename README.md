@@ -26,7 +26,7 @@ swea등산로
 
 ## class 이름
 
-Main이름
+Main이름</br>
 ex) Main김민수
 
 ## 규칙을 만드는데 더 좋은 의견 있으시면 말해주세요
